@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fpl-green: #00ff85;
+  --color-fpl-purple: #37003c;
+  --font-gaffer: "Inter", sans-serif;
+}
