@@ -28,6 +28,7 @@
     "init": "^0.1.2",
     "npx": "^10.2.2",
     "postcss": "^8.5.10",
+    "rolldown": "^1.0.0-rc.17",
     "tailwindcss": "^4.2.2",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",
